@@ -16,7 +16,6 @@ function pressed(event){
 }
 
 function sound(keys){
-{
     switch(keys)
         {
             case "w":
